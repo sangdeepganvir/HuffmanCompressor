@@ -3,19 +3,6 @@ Huffman Compression Web Application
 
 This repository contains a web application implementation of Huffman coding compression, built using HTML, CSS, and JavaScript. The application allows you to compress and decompress text files using the Huffman coding algorithm.
 
-Table of Contents
-
-Introduction
-
-Features
-
-Usage
-
-Demo
-
-Installation
-
-License
 
 
 Introduction
